@@ -1,8 +1,6 @@
 ---
 aliases:
 ---
-
-
 # Basic Automata Theory Crash Course
 
 - Intent: introduce first years to basic ideas in automata theory, revise this stuff for anybody else who wants it as well.
