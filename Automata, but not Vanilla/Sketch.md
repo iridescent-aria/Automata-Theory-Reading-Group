@@ -1,0 +1,49 @@
+- Intro
+	- Hello, this talk is about the many flavours of automata
+	- ppl that attended the prev talk have already seen 2 types. DFA and NFA
+	- The main use of Finite Automata is to model systems, but as the name suggests the above models are only useful when we are working with finite models
+	- We obv have stronger models, like Turing Machines (which is also an automata), so why worry about so many automata
+		- very nice properties
+		- we would like to have some of those so we make the system stronger in a way that lets us preserve some of these
+		- Or we want one of the automata that we are currently working with nicer
+		- Or you would just like to have some specific features for your purpose
+- So here are some interesting flavours of Automata
+	- Turing Machines
+		- Even engineers know about this(well, at least the name)
+		- Pretty OP (Church Turing Hypothesis says its the most OP)
+		- Describe
+		- All Programs in Imperative Languages are just Turing Machines
+	- Push Down Automata and Context Free Grammars 
+		- Describe
+		- FSA < 1-PDA < many-PDA = TM
+		- Parsing
+		- PDA >= Context Free Grammars
+		- Context Free Grammars >= PDA (maybe not explain)
+		- 2 stacks TC o:
+	- VASS and Counter Machines and Petri-nets
+		- Describe
+		-  FSA < PN = VASS < 1-CM < 1-PDA < many-CM = many-PDA = TM
+		- Parallel Computation Modelling - multiple counters multiple registers
+		- 2 counters TC o:
+- Another way add to automata
+	- Alternating Finite Automata
+		- Describe
+		- Making NFA Great Again - complementation
+		- State complexity worst case $\Theta(2^{2^n})$ - Very concise descriptions possible
+		- Conversion to DFA
+	- 2-way
+		- Describe - read only TM
+		- Gautham gave a presentation on this!
+- Making up new models for problems can actually be a really powerful/ interesting approach
+	- Add a new features and/or restrictions
+	- Mix and Match (one of the reasons why I did not give applications for a section)
+	- Gautham and I tried a problem, so I made a random model, didn't use it, but it was cool
+- Some more Fancy Flavours(remember mix and match is allowed)
+	- Timed Automata
+	- Probabilistic and Quantum Automata
+	- Omega Automata
+	- Tagged Automata
+	- Register Automata
+	- Weighed Automata
+	- Unambiguous Finite Automata
+- Resources for further studies
