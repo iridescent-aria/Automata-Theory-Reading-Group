@@ -12,7 +12,7 @@ This is an online repository which is meant to be a hub for resources related to
 
 ## Videos and Playlists
 - Introductory playlist for Theory of Computation (Harry Porter)
-	- [![https://www.youtube.com/playlist?list=PLeQUTTrz29w7LU5FfNvt3evJJlrSw3Kda](https://img.youtube.com/vi/TOsMcgIK95k/0.jpg)](https://www.youtube.com/playlist?list=PLeQUTTrz29w7LU5FfNvt3evJJlrSw3Kda)
+	- [![https://www.youtube.com/playlist?list=PLeQUTTrz29w7LU5FfNvt3evJJlrSw3Kda](https://img.youtube.com/vi/TOsMcgIK95k/0.jpg)](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz)
 - Playlist for Algebraic Automata Theory
 	- [![https://www.youtube.com/playlist?list=PLeQUTTrz29w7LU5FfNvt3evJJlrSw3Kda](https://img.youtube.com/vi/8pjHieMDeBs/0.jpg)](https://www.youtube.com/playlist?list=PLeQUTTrz29w7LU5FfNvt3evJJlrSw3Kda "https://www.youtube.com/playlist?list=PLeQUTTrz29w7LU5FfNvt3evJJlrSw3Kda")
 ---
